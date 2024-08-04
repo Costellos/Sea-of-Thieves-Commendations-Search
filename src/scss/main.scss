@@ -1,0 +1,112 @@
+/* assets/scss/main.scss */
+body {
+    background-color: #133339;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #e6e6e6;
+}
+
+a {
+    color: #95f3ab;
+    text-decoration: none;
+
+    &:hover {
+        color: #00ff9c;
+    }
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #3f8e7c;
+    border-radius: 5px;
+    background-color: #1a4b52;
+    color: #e6e6e6;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+input[type="text"]::placeholder {
+    color: #95f3ab;
+}
+
+.commendation-list {
+    margin-top: 20px;
+}
+
+.commendation-item {
+    border: 1px solid #3f8e7c;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #1a4b52;
+}
+
+.commendation-image img {
+    max-width: 100px;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.commendation-name {
+    font-weight: bold;
+}
+
+.commendation-grades {
+    margin-top: 10px;
+}
+
+.commendation-grade {
+    background-color: #3f8e7c;
+    padding: 5px;
+    margin: 2px 0;
+    border-radius: 3px;
+}
+
+.grade-name {
+    font-weight: bold;
+}
+
+.commendation-rewards {
+    margin-top: 10px;
+}
+
+.reward-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #00ff9c;
+}
+
+.reward {
+    display: flex;
+    align-items: center;
+    padding: 3px 0;
+}
+
+.reward-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.reward-description {
+    margin-left: 5px;
+}
+
+.commendation-timelimited {
+    margin-top: 10px;
+    color: #d9534f;
+    font-weight: bold;
+}
+
+.commendation-section {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #95f3ab;
+    background-color: #1a4b52;
+    padding: 5px;
+    border-radius: 3px;
+}

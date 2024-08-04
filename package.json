@@ -1,0 +1,37 @@
+{
+  "name": "sot_comedations_list",
+  "version": "1.0.0",
+  "description": "small app to show all of the comedations for SOT, and give you a simple saerch",
+  "main": "index.js",
+  "watch": {
+    "build": {
+      "patterns": ["src"],
+      "extensions": "js,scss",
+      "quiet": false,
+      "runOnChangeOnly": true
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "comp-js": "uglifyjs-folder src/js -eo assets/js",
+    "comp-sass": "node-sass src/scss -o assets/css",
+    "watch": "npm-watch build",
+    "build": "npm run comp-js && npm run comp-sass"
+  },
+  "keywords": [
+    "sot",
+    "sea of thieves",
+    "comedations",
+    "steven costello",
+    "costello",
+    "costellocoding"
+  ],
+  "author": "Steven Costello",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "npm-watch": "^0.13.0",
+    "uglify-js": "^3.17.4",
+    "uglifyjs-folder": "^3.3.0"
+  }
+}
