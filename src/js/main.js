@@ -22,8 +22,8 @@ document.addEventListener("DOMContentLoaded", () => {
                         reward.type.toLowerCase().includes(searchTerm) || 
                         reward.description.toLowerCase().includes(searchTerm))) ||
                     (commendation.timeLimited && commendation.dates.toLowerCase().includes(searchTerm)) ||
-                    (commendation.section && commendation.section.name.toLowerCase().includes(searchTerm)) ||
-                    (commendation.section && commendation.section.subSection && commendation.section.subSection.toLowerCase().includes(searchTerm)) ||
+                    (commendation.section && commendation.section.toLowerCase().includes(searchTerm)) ||
+                    (commendation.section && commendation.subSection && commendation.subSection.toLowerCase().includes(searchTerm)) ||
                     (commendation.image && commendation.image.toLowerCase().includes(searchTerm))
                 );
                 displayCommendations(filteredCommendations, rewardTypes);
@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         <div class="reward-title">Rewards</div>
                         ${commendation.rewards.map(reward => `
                             <div class="reward">
-                                <img class="reward-icon" src="${rewardTypes[reward.type]}" alt="${reward.type}">
+                                <img class="reward-icon" src="${rewardTypes[reward.type].icon}" alt="${rewardTypes[reward.type].icon}">
                                 <span class="reward-description">${reward.description}</span>
                             </div>
                         `).join('')}
@@ -68,8 +68,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 ` : ''}
                 ${commendation.section ? `
                     <div class="commendation-section">
-                        Section: ${commendation.section.name}
-                        ${commendation.section.subSection ? ` - Sub Section: ${commendation.section.subSection}` : ''}
+                        Section: ${commendation.section}
+                        ${commendation.subSection ? ` - Sub Section: ${commendation.subSection}` : ''}
                     </div>
                 ` : ''}
             `;

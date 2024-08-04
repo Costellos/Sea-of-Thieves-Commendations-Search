@@ -1,66 +1,166 @@
 {
     "rewardTypes": {
-        "title": "assets/images/title_reward_icon.png",
-        "unlock": "assets/images/unlock_reward_icon.png"
+        "title": {
+            "name": "title",
+            "icon": "assets\/images\/title_reward_icon.png"
+        },
+        "unlock": {
+            "name": "unlock",
+            "icon": "assets\/images\/unlock_reward_icon.png"
+        }
     },
     "commendations": [
-        { 
-            "name": "Golden Voyager", 
-            "description": "Complete Gold Hoarder Voyages.", 
+        {
+            "name": "Golden Voyager",
+            "description": "Complete Gold Hoarder Voyages.",
+            "section": "Gold Hoarders",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders\/Golden_Voyager_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
             "grades": [
-                { "name": "Grade 1", "description": "5 voyages" },
-                { "name": "Grade 2", "description": "25 voyages" },
-                { "name": "Grade 3", "description": "50 voyages" },
-                { "name": "Grade 4", "description": "100 voyages" },
-                { "name": "Grade 5", "description": "250 voyages" }
+                {
+                    "name": "Grade 1",
+                    "description": "5 voyages"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "25 voyages"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "50 voyages"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "100 voyages"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "250 voyages"
+                }
             ],
             "rewards": [
-                { "type": "title", "description": "The Golden Voyager Title" }
-            ],
-            "timeLimited": false,
-            "section": {
-                "name": "Gold Hoarders"
-            },
-            "image": "assets/images/gold_hoarders/Golden_Voyager_emblem.webp"
+                {
+                    "type": "title",
+                    "description": "The Golden Voyager Title"
+                }
+            ]
         },
-        { 
-            "name": "Keeper of a Glittering Hoard", 
+        {
+            "name": "Keeper of a Glittering Hoard",
             "description": "Earn gold with Gold Hoarder Voyages.",
+            "section": "Gold Hoarders",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders\/Keeper_of_a_Glittering_Hoard_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
             "grades": [
-                { "name": "Grade 1", "description": "1,000 gold" },
-                { "name": "Grade 2", "description": "5,000 gold" },
-                { "name": "Grade 3", "description": "15,000 gold" },
-                { "name": "Grade 4", "description": "75,000 gold" },
-                { "name": "Grade 5", "description": "150,000 gold" }
+                {
+                    "name": "Grade 1",
+                    "description": "1,000 gold"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "5,000 gold"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "15,000 gold"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "75,000 gold"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "150,000 gold"
+                }
             ],
             "rewards": [
-                { "type": "title", "description": "The Keeper of a Glittering Hoard Title" }
-            ],
-            "timeLimited": false,
-            "section": {
-                "name": "Gold Hoarders"
-            },
-            "image": "assets/images/gold_hoarders/Keeper_of_a_Glittering_Hoard_emblem.webp"
+                {
+                    "type": "title",
+                    "description": "The Keeper of a Glittering Hoard Title"
+                }
+            ]
         },
-        { 
-            "name": "Sailor of the Gold Horizon", 
-            "description": "Sail nautical miles on Gold Hoarder Voyages.", 
+        {
+            "name": "Sailor of the Gold Horizon",
+            "description": "Sail nautical miles on Gold Hoarder Voyages.",
+            "section": "Gold Hoarders",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders\/Sailor_of_the_Gold_Horizon_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
             "grades": [
-                { "name": "Grade 1", "description": "10 miles" },
-                { "name": "Grade 2", "description": "75 miles" },
-                { "name": "Grade 3", "description": "200 miles" },
-                { "name": "Grade 4", "description": "500 miles" },
-                { "name": "Grade 5", "description": "1,000 miles" }
+                {
+                    "name": "Grade 1",
+                    "description": "10 miles"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "75 miles"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "200 miles"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "500 miles"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "1,000 miles"
+                }
             ],
             "rewards": [
-                { "type": "title", "description": "The Sailor of the Gold Horizon Title" },
-                { "type": "unlock", "description": "Unlocks Gold Hoarders Speaking Trumpet, Spyglass and Tankard for purchase." }
+                {
+                    "type": "title",
+                    "description": "The Sailor of the Gold Horizon Title"
+                },
+                {
+                    "type": "unlock",
+                    "description": "Unlocks Gold Hoarders Speaking Trumpet, Spyglass and Tankard for purchase."
+                }
+            ]
+        },
+        {
+            "name": "Seeker of Lost Maps",
+            "description": "Purchase Gold Hoarder Voyages.",
+            "section": "Gold Hoarders",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders\/Sailor_of_the_Gold_Horizon_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "5 voyages"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "25 voyages"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "50 voyages"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "100 voyages"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "250 voyages"
+                }
             ],
-            "timeLimited": false,
-            "section": {
-                "name": "Gold Hoarders"
-            },
-            "image": "assets/images/gold_hoarders/Sailor_of_the_Gold_Horizon_emblem.webp"
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "The Seeker of Lost Maps Title"
+                }
+            ]
         }
     ]
 }
