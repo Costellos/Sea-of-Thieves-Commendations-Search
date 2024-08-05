@@ -130,7 +130,7 @@
             "description": "Purchase Gold Hoarder Voyages.",
             "section": "Gold Hoarders",
             "subSection": "",
-            "image": "assets\/images\/gold_hoarders\/Sailor_of_the_Gold_Horizon_emblem.webp",
+            "image": "assets\/images\/gold_hoarders\/Seeker_of_Lost_Maps_emblem.webp",
             "timeLimitedStart": "",
             "timeLimitedEnd": "",
             "grades": [
@@ -161,6 +161,528 @@
                     "description": "The Seeker of Lost Maps Title"
                 }
             ]
+        },
+        {
+            "name": "Hoarder of the Castaway's Gold",
+            "description": "Sell Castaway's Chests to the Gold Hoarders.",
+            "section": "Gold Hoarders",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders\/Hoarder_of_the_Castaways_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "5 Chests"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "15 Chests"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "30 Chests"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "60 Chests"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "90 Chests"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "The Hoarder of the Castaway's Gold Title"
+                }
+            ]
+        },
+        {
+            "name": "Hoarder of the Seafarer's Gold",
+            "description": "Sell Seafarer's Chests to the Gold Hoarders.",
+            "section": "Gold Hoarders",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders\/Hoarder_of_the_Seafarers_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "10 Chests"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "30 Chests"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "60 Chests"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "120 Chests"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "180 Chests"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "The Hoarder of the Seafarer's Gold Title"
+                }
+            ]
+        },
+        {
+            "name": "Hoarder of the Marauder's Gold",
+            "description": "Sell Marauder's Chests to the Gold Hoarders.",
+            "section": "Gold Hoarders",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders\/Hoarder_of_the_Marauders_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "15 Chests"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "45 Chests"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "90 Chests"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "180 Chests"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "270 Chests"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "The Hoarder of the Marauder's Gold Title"
+                }
+            ]
+        },
+        {
+            "name": "Hoarder of the Captain's Gold",
+            "description": "Sell Captain's Chests to the Gold Hoarders.",
+            "section": "Gold Hoarders",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders\/Hoarder_of_the_Captains_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "20 Chests"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "60 Chests"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "120 Chests"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "240 Chests"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "360 Chests"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "The Hoarder of the Captain's Gold Title"
+                }
+            ]
+        },
+        {
+            "name": "Hoarder of Grog Soaked Gold",
+            "description": "Sell Chests of a Thousand Grogs to the Gold Hoarders.",
+            "section": "Gold Hoarders",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders\/Hoarder_of_Grog_Soaked_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "2 Chests"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "10 Chests"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "25 Chests"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "50 Chests"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "100 Chests"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "The Hoarder of Grog Soaked Gold Title"
+                }
+            ]
+        },
+        {
+            "name": "Hoarder of Treasured Tears",
+            "description": "Sell Chests of Sorrow to the Gold Hoarders.",
+            "section": "Gold Hoarders",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders\/Hoarder_of_Treasured_Tears_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "2 Chests"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "10 Chests"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "25 Chests"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "50 Chests"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "100 Chests"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "The Hoarder of Treasured Tears Title"
+                }
+            ]
+        },
+        {
+            "name": "Hoarder of Barnacled Gold",
+            "description": "Sell Shipwrecked Chests to the Gold Hoarders.",
+            "section": "Gold Hoarders",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders\/Hoarder_of_Barnacled_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "5 Chests"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "20 Chests"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "60 Chests"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "150 Chests"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "300 Chests"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "The Hoarder of Barnacled Gold Title"
+                },
+                {
+                    "type": "unlock",
+                    "description": "Unlocks The Silent Barnacle Set items for purchase."
+                }
+            ]
+        },
+        {
+            "name": "Hoarder of Lost Artefacts",
+            "description": "Sell Treasure Artefacts to the Gold Hoarders.",
+            "section": "Gold Hoarders",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders\/Hoarder_of_Lost_Artefacts_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "5 Artefacts"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "30 Artefacts"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "90 Artefacts"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "225 Artefacts"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "450 Artefacts"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "the Hoarder of Lost Artefacts Title"
+                }
+            ]
+        },
+        {
+            "name": "Emissary of Gold",
+            "description": "Become an Emissary for the Gold Hoarders.",
+            "section": "Gold Hoarders Emissary",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders_emissary\/Emissary_of_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": ""
+        },
+        {
+            "name": "Worthy Emissary of Gold",
+            "description": "Reach Gold Hoarders Emissary Grade 2.",
+            "section": "Gold Hoarders Emissary",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders_emissary\/Emissary_of_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "1 times"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "25 times"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "50 times"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "75 times"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "100 times"
+                }
+            ]
+        },
+        {
+            "name": "Dedicated Emissary of Gold",
+            "description": "Reach Gold Hoarders Emissary Grade 3.",
+            "section": "Gold Hoarders Emissary",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders_emissary\/Emissary_of_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "1 times"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "20 times"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "40 times"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "60 times"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "80 times"
+                }
+            ]
+        },
+        {
+            "name": "Esteemed Emissary of Gold",
+            "description": "Reach Gold Hoarders Emissary Grade 4.",
+            "section": "Gold Hoarders Emissary",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders_emissary\/Emissary_of_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "1 times"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "10 times"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "20 times"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "30 times"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "40 times"
+                }
+            ]
+        },
+        {
+            "name": "Unrivalled Emissary of Gold",
+            "description": "Reach Gold Hoarders Emissary Grade 5.",
+            "section": "Gold Hoarders Emissary",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders_emissary\/Emissary_of_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "1 times"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "5 times"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "10 times"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "15 times"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "20 times"
+                }
+            ]
+        },
+        {
+            "name": "Golden Tribute",
+            "description": "Sell Gold Hoarder Treasures while flying the Gold Hoarders Emissary Flag.",
+            "section": "Gold Hoarders Emissary",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders_emissary\/Emissary_of_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "120 treasures"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "240 treasures"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "360 treasures"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "480 treasures"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "600 treasures"
+                }
+            ]
+        },
+        {
+            "name": "Eminent Hoarder",
+            "description": "Sell Gold Hoarder Treasures while flying a Grade 5 Gold Hoarders Emissary Flag.",
+            "section": "Gold Hoarders Emissary",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders_emissary\/Emissary_of_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "60 treasures"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "120 treasures"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "200 treasures"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "260 treasures"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "320 treasures"
+                }
+            ]
+        },
+        {
+            "name": "Hoarder's Garb",
+            "description": "Represent the Gold Hoarders through your appearance while sailing as an Emissary.",
+            "section": "Gold Hoarders Emissary",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders_emissary\/Emissary_of_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": ""
+        },
+        {
+            "name": "Hoarder's Livery",
+            "description": "Represent the Gold Hoarders through your ship's appearance while sailing as an Emissary.",
+            "section": "Gold Hoarders Emissary",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders_emissary\/Emissary_of_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": ""
+        },
+        {
+            "name": "Hoarders Through and Through",
+            "description": "As Emissaries, fully represent the Gold Hoarders through your crew and your ship's appearance.",
+            "section": "Gold Hoarders Emissary",
+            "subSection": "",
+            "image": "assets\/images\/gold_hoarders_emissary\/Emissary_of_Gold_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": ""
         }
     ]
 }
