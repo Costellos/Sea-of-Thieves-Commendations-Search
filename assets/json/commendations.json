@@ -683,6 +683,575 @@
             "image": "assets\/images\/gold_hoarders_emissary\/Emissary_of_Gold_emblem.webp",
             "timeLimitedStart": "",
             "timeLimitedEnd": ""
+        },
+        {
+            "name": "Hoarder of Vault Keys",
+            "description": "Find Gold Hoarder Treasure Vault Keys",
+            "section": "Wayfinder Voyage",
+            "subSection": "",
+            "image": "assets\/images\/wayfinder_voyage\/Hoarder_of_Vault_Keys_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "3 Keys"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "15 Keys"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "25 Keys"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "35 Keys"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "50 Keys"
+                }
+            ]
+        },
+        {
+            "name": "Seeker of Ancient Vaults",
+            "description": "Open Gold Hoarder Treasure Vaults using a Vault Key.",
+            "section": "Wayfinder Voyage",
+            "subSection": "",
+            "image": "assets\/images\/wayfinder_voyage\/Seeker_of_Ancient_Vaults_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "3 Vaults"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "10 Vaults"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "25 Vaults"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "50 Vaults"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "100 Vaults"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "The Seeker of Ancient Vaults Title"
+                },
+                {
+                    "type": "unlock",
+                    "description": "Unlocks the Ancient Vault Sails and the Gold Hoarders Blunderbuss, Cutlass, Pistol and Eye of Reach for purchase."
+                }
+            ]
+        },
+        {
+            "name": "Hoarder of Ancient Tributes",
+            "description": "Return Chests of Ancient Tributes to the Gold Hoarders",
+            "section": "Wayfinder Voyage",
+            "subSection": "",
+            "image": "assets\/images\/wayfinder_voyage\/Hoarder_of_Ancient_Tributes_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "3 Chests"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "15 Chests"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "25 Chests"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "35 Chests"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "50 Chests"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "The Hoarder of Ancient Tributes Title"
+                },
+                {
+                    "type": "unlock",
+                    "description": "Unlocks the Ancient Tribute Sails for purchase."
+                }
+            ]
+        },
+        {
+            "name": "Voyager of Lost Souls",
+            "description": "Complete Order of Souls Voyages.",
+            "section": "Order of Souls",
+            "subSection": "",
+            "image": "assets\/images\/order_of_souls\/Voyager_of_Lost_Souls_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "5 voyages"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "25 voyages"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "50 voyages"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "100 voyages"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "250 voyages"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "The Voyager of Lost Souls Title"
+                }
+            ]
+        },
+        {
+            "name": "Mercenary of the Ancient Order",
+            "description": "Earn gold with the Order of Souls Voyages.",
+            "section": "Order of Souls",
+            "subSection": "",
+            "image": "assets\/images\/order_of_souls\/Mercenary_of_the_Ancient_Order_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "1,000 gold"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "5,000 gold"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "15,000 gold"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "75,000 gold"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "150,000 gold"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "The Mercenary of the Ancient Order Title"
+                }
+            ]
+        },
+        {
+            "name": "Sailor of the Whispering Bones",
+            "description": "Sail nautical miles on Order of Souls Voyages bounties.",
+            "section": "Order of Souls",
+            "subSection": "",
+            "image": "assets\/images\/order_of_souls\/Sailor_of_the_Whispering_Bones_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "10 miles"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "75 miles"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "200 miles"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "500 miles"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "1,000 miles"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "The Sailor of the Whispering Bones Title"
+                },
+                {
+                    "type": "unlock",
+                    "description": "Unlocks Order of Souls Bucket for purchase."
+                }
+            ]
+        },
+        {
+            "name": "Seeker of Lost Souls",
+            "description": "Purchase Bounty Voyages",
+            "section": "Order of Souls",
+            "subSection": "",
+            "image": "assets\/images\/order_of_souls\/Seeker_of_Lost_Souls_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "5 voyages"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "25 voyages"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "50 voyages"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "100 voyages"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "250 voyages"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "the Seeker of Lost Souls Title"
+                },
+                {
+                    "type": "unlock",
+                    "description": "Unlocks Order of Souls Blunderbuss, Cutlass, Pistol and Eye of Reach for purchase."
+                }
+            ]
+        },
+        {
+            "name": "Hunter of Foul Skulls",
+            "description": "Deliver Foul skulls to the Order of Souls.",
+            "section": "Order of Souls",
+            "subSection": "",
+            "image": "assets\/images\/order_of_souls\/Hunter_of_Foul_Skulls_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "5 Skulls"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "15 Skulls"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "30 Skulls"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "60 Skulls"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "90 Skulls"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "The Hunter of Foul Skulls Title"
+                }
+            ]
+        },
+        {
+            "name": "Hunter of Disgraced Skulls",
+            "description": "Deliver Disgraced skulls to the Order of Souls.",
+            "section": "Order of Souls",
+            "subSection": "",
+            "image": "assets\/images\/order_of_souls\/Hunter_of_Disgraced_Skulls_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "10 Skulls"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "30 Skulls"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "60 Skulls"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "120 Skulls"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "180 Skulls"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "the Hunter of Disgraced Skulls Title"
+                }
+            ]
+        },
+        {
+            "name": "Hunter of Hateful Skulls",
+            "description": "Deliver Hateful skulls to the Order of Souls.",
+            "section": "Order of Souls",
+            "subSection": "",
+            "image": "assets\/images\/order_of_souls\/Hunter_of_Hateful_Skulls_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "15 Skulls"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "45 Skulls"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "90 Skulls"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "180 Skulls"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "270 Skulls"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "the Hunter of Hateful Skulls Title"
+                }
+            ]
+        },
+        {
+            "name": "Hunter of Villainous Skulls",
+            "description": "Deliver Villainous skulls to the Order of Souls.",
+            "section": "Order of Souls",
+            "subSection": "",
+            "image": "assets\/images\/order_of_souls\/Hunter_of_Villainous_Skulls_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "20 Skulls"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "60 Skulls"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "120 Skulls"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "240 Skulls"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "360 Skulls"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "the Hunter of Villainous Skulls Title"
+                }
+            ]
+        },
+        {
+            "name": "Hunter of Cursed Crews",
+            "description": "Defeat Skeleton Crews.",
+            "section": "Order of Souls",
+            "subSection": "",
+            "image": "assets\/images\/order_of_souls\/Hunter_of_Cursed_Crews_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "2 Crews"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "10 Crews"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "35 Crews"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "90 Crews"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "180 Crews"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "the Hunter of Cursed Crews Title"
+                }
+            ]
+        },
+        {
+            "name": "Hunter of Cursed Captains",
+            "description": "Defeat Skeleton Captains.",
+            "section": "Order of Souls",
+            "subSection": "",
+            "image": "assets\/images\/order_of_souls\/Hunter_of_Cursed_Captains_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "20 Captains"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "70 Captains"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "200 Captains"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "450 Captains"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "1,000 Captains"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "the Hunter of Cursed Captains Title"
+                },
+                {
+                    "type": "unlock",
+                    "description": "Unlocks the Nightfall Hunter Belt, Boots and Gloves for purchase at Grade I, the Nightfall Hunter Trousers, Shirt and Eyepatch for purchase at Grade II, the Nightfall Hunter Pegleg and Hook for purchase at Grade III, and the Nightfall Hunter Dress, Jacket, and Hat for purchase at Grade IV."
+                }
+            ]
+        },
+        {
+            "name": "Raider of Cursed Strongholds",
+            "description": "Clear Skeleton Forts.",
+            "section": "Order of Souls",
+            "subSection": "",
+            "image": "assets\/images\/order_of_souls\/Raider_of_Cursed_Strongholds_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "1 Forts"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "10 Forts"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "25 Forts"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "60 Forts"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "120 Forts"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "the Raider of Cursed Strongholds Title"
+                }
+            ]
+        },
+        {
+            "name": "Hunter of Fort Skulls",
+            "description": "Deliver Skeleton Fort Skulls to the Order of Souls.",
+            "section": "Order of Souls",
+            "subSection": "",
+            "image": "assets\/images\/order_of_souls\/Hunter_of_Fort_Skulls_emblem.webp",
+            "timeLimitedStart": "",
+            "timeLimitedEnd": "",
+            "grades": [
+                {
+                    "name": "Grade 1",
+                    "description": "1 Skulls"
+                },
+                {
+                    "name": "Grade 2",
+                    "description": "5 Skulls"
+                },
+                {
+                    "name": "Grade 3",
+                    "description": "10 Skulls"
+                },
+                {
+                    "name": "Grade 4",
+                    "description": "30 Skulls"
+                },
+                {
+                    "name": "Grade 5",
+                    "description": "60 Skulls"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "title",
+                    "description": "the Hunter of Fort Skulls Title"
+                }
+            ]
         }
     ]
 }
